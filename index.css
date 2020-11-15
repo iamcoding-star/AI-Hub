@@ -1,0 +1,4 @@
+/* to amke the bottom margin 0 of the alert */
+.alert-dismissible {
+    margin-bottom: 0;  
+}
